@@ -3,7 +3,7 @@ sudo: false
 install: true
 addons:
   sonarqube:
-    organization: "RusIoan"
+    organization: "rusioan"
     branches:
       - master
       - develop
